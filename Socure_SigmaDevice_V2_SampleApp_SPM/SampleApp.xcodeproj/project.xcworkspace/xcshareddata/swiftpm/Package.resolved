@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sigmadevicewrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/buraksocure/SigmaDeviceWrapper",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b59474ebc72f6f1f113d36a2e50ee1f6dab2de31"
+      }
+    }
+  ],
+  "version" : 2
+}
